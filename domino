@@ -1,0 +1,20 @@
+#include<stdio.h>
+#include<math.h>
+#include<stdlib.h>
+int main(){
+int n,m;
+scanf("%d %d",&n,&m);//hàng cột
+if(n%2==0){
+printf("%lld",1ll*n/2*m);
+}
+else{
+printf("%lld",1ll*n/2*m+m/2);
+}
+return 0;
+}
+
+
+
+
+
+
