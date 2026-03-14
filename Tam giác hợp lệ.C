@@ -1,4 +1,5 @@
 Cho 3 cạnh a, b, c là độ dài 3 cạnh của tam giác, kiểm tra xem a, b, c có thể tạo thành một tam giác hợp lệ hay không?
+
 #include<stdio.h>
 #include<math.h>
 #include<stdlib.h>
